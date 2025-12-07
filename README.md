@@ -72,7 +72,7 @@ Las importaciones presentan patrones vinculados a insumos productivos.
 📎 Archivos del proyecto
 
 📄 Reporte completo (PDF):
-(tu link de Drive si querés agregarlo)
+https://drive.google.com/file/d/1ABbnstxxX03M2C3aul3CmouZjTwtFl8S/view
 
 💻 Sitio del repositorio en GitHub:
 https://github.com/joaponzio/comercio-internacional-santa-fe-powerbi
