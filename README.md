@@ -1,4 +1,4 @@
-# comercio-internacional-santa-fe-powerbi
+# comercio-internacional-santa-fe
  Análisis de importaciones y exportaciones de Santa Fe (2016–2018) con Power BI
 📊 Análisis del Comercio Internacional de la Provincia de Santa Fe (2016–2018)
 
