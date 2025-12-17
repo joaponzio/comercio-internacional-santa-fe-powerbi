@@ -30,17 +30,6 @@ DAX básico
 
 Análisis económico / comercio exterior
 
-📁 Contenidos del repositorio
-
-Comercio internacional de la provincia de Santa Fe - 2016-2018.pdf
-→ Reporte completo con descripción del proceso, gráficos e insights
-
-Comercio internacional de ... .pbix
-→ Archivo editable de Power BI con el modelo de datos y dashboard
-
-README.md
-→ Este archivo
-
 📈 Dashboard y visualizaciones
 
 El reporte incluye:
