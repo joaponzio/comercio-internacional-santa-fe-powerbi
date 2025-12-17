@@ -1,5 +1,4 @@
 # comercio-internacional-santa-fe
- Análisis de importaciones y exportaciones de Santa Fe (2016–2018) con Power BI
 📊 Análisis del Comercio Internacional de la Provincia de Santa Fe (2016–2018)
 
 Este proyecto analiza la evolución de las exportaciones e importaciones de la provincia de Santa Fe durante el período 2016–2018, utilizando Power BI para integrar datos oficiales, modelar información y construir un dashboard interactivo con insights económicos relevantes.
